@@ -1,4 +1,4 @@
-How to go on windows:
+How to run on windows:
 
 python -m venv venv
 
